@@ -8,3 +8,5 @@ d:    Move right /    (Break Mode) Destroy right wall
 t:    Display gems left and bombs/breaks left
 q:    Enter break mode
 z:    Use bomb
+
+C++ compiler (g++) and ncurses library are required to run.
