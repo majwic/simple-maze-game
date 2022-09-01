@@ -1,0 +1,3 @@
+May 7, 2022: Added color to game. Also, added maps that will increment the players vision by 1. Added gems to collect as the win condition. Breaks and bombs where added to break maze walls. A break is gained when 5 gems are collected and a bomb is gained when 10 gems are collected. Added game state screen to display gems left, and current amount of bombs/breaks.
+
+May 6, 2022: Created MazeCell, Maze, and Player classes. Implemented prims algorithm to randomly generate a maze. Implemented a modified breadth first algorithm to print cells that are visible to player. Created a main file to handle the game loop. 

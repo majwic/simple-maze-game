@@ -1,0 +1,10 @@
+Using <make run> will start the game. Any sized terminal is supported, however, a smaller terminal/larger text is recommended for testing purposes (due to larger terminals having a higher difficulty). The goal of the game is to collect all gem <*>. Maps <#> are always displayed, and they increase the players view range. Every 5 gems collected and 10 gems collect awards the player a break (5) and a bomb (10). Bombs can be used to destroy a ring of walls around the player. Breaks can be used to destroy a specific block. Controls can be seen below.
+
+w:    Move up	 /    (Break Mode) Destroy up wall
+a:    Move left	 /    (Break Mode) Destroy left wall
+s:    Move down	 /    (Break Mode) Destroy down wall
+d:    Move right /    (Break Mode) Destroy right wall
+
+t:    Display gems left and bombs/breaks left
+q:    Enter break mode
+z:    Use bomb
